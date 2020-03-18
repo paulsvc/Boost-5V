@@ -1,1 +1,3 @@
 https://circuitdigest.com/electronic-circuits/3.7v-to-5v-boost-converter-circuit-diagram
+
+http://www.ti.com/lit/ds/symlink/tps61322.pdf
